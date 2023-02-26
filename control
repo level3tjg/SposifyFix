@@ -1,0 +1,10 @@
+Package: com.level3tjg.sposifyfix
+Name: Sposify Fix
+Version: 0.0.6
+Architecture: iphoneos-arm
+Description: Fix for Sposify for Spotify v8.6.30
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.sposifyfix
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.spos
